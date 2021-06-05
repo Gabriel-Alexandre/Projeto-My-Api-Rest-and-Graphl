@@ -1,0 +1,702 @@
+[
+    {
+        "endereco-pais": "Afghanistan",
+        "endereco-cidade": "Kalān Deh",
+        "endereco_rua": "Anzinger",
+        "endereco_numero": "69936",
+        "user_id": 13
+    },
+    {
+        "endereco-pais": "Afghanistan",
+        "endereco-cidade": "Khānaqāh",
+        "endereco_rua": "Westridge",
+        "endereco_numero": "43729",
+        "user_id": 171
+    },
+    {
+        "endereco-pais": "Afghanistan",
+        "endereco-cidade": "Shibirghān",
+        "endereco_rua": "Helena",
+        "endereco_numero": "14015",
+        "user_id": 103
+    },
+    {
+        "endereco-pais": "Afghanistan",
+        "endereco-cidade": "Kafir Qala",
+        "endereco_rua": "American",
+        "endereco_numero": "9661",
+        "user_id": 148
+    },
+    {
+        "endereco-pais": "Afghanistan",
+        "endereco-cidade": "Chakaray",
+        "endereco_rua": "Blackbird",
+        "endereco_numero": "98",
+        "user_id": 74
+    },
+    {
+        "endereco-pais": "Afghanistan",
+        "endereco-cidade": "Ḩājī Khēl",
+        "endereco_rua": "Nancy",
+        "endereco_numero": "09",
+        "user_id": 64
+    },
+    {
+        "endereco-pais": "Afghanistan",
+        "endereco-cidade": "Dowlatyār",
+        "endereco_rua": "Meadow Vale",
+        "endereco_numero": "2",
+        "user_id": 39
+    },
+    {
+        "endereco-pais": "Afghanistan",
+        "endereco-cidade": "Now Zād",
+        "endereco_rua": "Hazelcrest",
+        "endereco_numero": "52405",
+        "user_id": 187
+    },
+    {
+        "endereco-pais": "Afghanistan",
+        "endereco-cidade": "Pārūn",
+        "endereco_rua": "Waxwing",
+        "endereco_numero": "82",
+        "user_id": 187
+    },
+    {
+        "endereco-pais": "Afghanistan",
+        "endereco-cidade": "Zargarān",
+        "endereco_rua": "Lakewood Gardens",
+        "endereco_numero": "5769",
+        "user_id": 100
+    },
+    {
+        "endereco-pais": "Afghanistan",
+        "endereco-cidade": "Khān Neshīn",
+        "endereco_rua": "Hudson",
+        "endereco_numero": "397",
+        "user_id": 79
+    },
+    {
+        "endereco-pais": "Afghanistan",
+        "endereco-cidade": "Āqchah",
+        "endereco_rua": "Messerschmidt",
+        "endereco_numero": "5",
+        "user_id": 16
+    },
+    {
+        "endereco-pais": "Afghanistan",
+        "endereco-cidade": "Quchanghī",
+        "endereco_rua": "Stang",
+        "endereco_numero": "18",
+        "user_id": 79
+    },
+    {
+        "endereco-pais": "Afghanistan",
+        "endereco-cidade": "Sar Chakān",
+        "endereco_rua": "Nevada",
+        "endereco_numero": "533",
+        "user_id": 21
+    },
+    {
+        "endereco-pais": "Afghanistan",
+        "endereco-cidade": "Bāsawul",
+        "endereco_rua": "Fuller",
+        "endereco_numero": "0432",
+        "user_id": 184
+    },
+    {
+        "endereco-pais": "Afghanistan",
+        "endereco-cidade": "Shibirghān",
+        "endereco_rua": "Mockingbird",
+        "endereco_numero": "02",
+        "user_id": 61
+    },
+    {
+        "endereco-pais": "Afghanistan",
+        "endereco-cidade": "Qal‘ah-ye Shāhī",
+        "endereco_rua": "Sugar",
+        "endereco_numero": "4309",
+        "user_id": 114
+    },
+    {
+        "endereco-pais": "Afghanistan",
+        "endereco-cidade": "Jalālābād",
+        "endereco_rua": "Evergreen",
+        "endereco_numero": "964",
+        "user_id": 115
+    },
+    {
+        "endereco-pais": "Afghanistan",
+        "endereco-cidade": "Pāshmūl",
+        "endereco_rua": "Sloan",
+        "endereco_numero": "17",
+        "user_id": 111
+    },
+    {
+        "endereco-pais": "Afghanistan",
+        "endereco-cidade": "Khānaqāh",
+        "endereco_rua": "Wayridge",
+        "endereco_numero": "66249",
+        "user_id": 87
+    },
+    {
+        "endereco-pais": "Afghanistan",
+        "endereco-cidade": "Injīl",
+        "endereco_rua": "Eliot",
+        "endereco_numero": "9383",
+        "user_id": 93
+    },
+    {
+        "endereco-pais": "Afghanistan",
+        "endereco-cidade": "‘Alāqahdārī Kirān wa Munjān",
+        "endereco_rua": "Manley",
+        "endereco_numero": "36",
+        "user_id": 80
+    },
+    {
+        "endereco-pais": "Afghanistan",
+        "endereco-cidade": "Qal‘ah-ye Kūf",
+        "endereco_rua": "Namekagon",
+        "endereco_numero": "00757",
+        "user_id": 178
+    },
+    {
+        "endereco-pais": "Afghanistan",
+        "endereco-cidade": "Chandal Bā’ī",
+        "endereco_rua": "Porter",
+        "endereco_numero": "0352",
+        "user_id": 119
+    },
+    {
+        "endereco-pais": "Afghanistan",
+        "endereco-cidade": "Chakaray",
+        "endereco_rua": "Arapahoe",
+        "endereco_numero": "7",
+        "user_id": 165
+    },
+    {
+        "endereco-pais": "Afghanistan",
+        "endereco-cidade": "Khafizan",
+        "endereco_rua": "Northview",
+        "endereco_numero": "69",
+        "user_id": 86
+    },
+    {
+        "endereco-pais": "Afghanistan",
+        "endereco-cidade": "Ḩājī Khēl",
+        "endereco_rua": "Declaration",
+        "endereco_numero": "11",
+        "user_id": 112
+    },
+    {
+        "endereco-pais": "Afghanistan",
+        "endereco-cidade": "Ḩājī Khēl",
+        "endereco_rua": "Jana",
+        "endereco_numero": "06",
+        "user_id": 38
+    },
+    {
+        "endereco-pais": "Afghanistan",
+        "endereco-cidade": "Panjāb",
+        "endereco_rua": "Talisman",
+        "endereco_numero": "9",
+        "user_id": 48
+    },
+    {
+        "endereco-pais": "Afghanistan",
+        "endereco-cidade": "Baghlān",
+        "endereco_rua": "Hayes",
+        "endereco_numero": "26",
+        "user_id": 22
+    },
+    {
+        "endereco-pais": "Afghanistan",
+        "endereco-cidade": "Farah",
+        "endereco_rua": "Melby",
+        "endereco_numero": "2",
+        "user_id": 97
+    },
+    {
+        "endereco-pais": "Afghanistan",
+        "endereco-cidade": "Dasht-e Qal‘ah",
+        "endereco_rua": "Laurel",
+        "endereco_numero": "73",
+        "user_id": 124
+    },
+    {
+        "endereco-pais": "Afghanistan",
+        "endereco-cidade": "Muḩammad Āghah Wuluswālī",
+        "endereco_rua": "Fallview",
+        "endereco_numero": "0581",
+        "user_id": 142
+    },
+    {
+        "endereco-pais": "Afghanistan",
+        "endereco-cidade": "Būrkah",
+        "endereco_rua": "Forest",
+        "endereco_numero": "1927",
+        "user_id": 165
+    },
+    {
+        "endereco-pais": "Afghanistan",
+        "endereco-cidade": "Nahrīn",
+        "endereco_rua": "Columbus",
+        "endereco_numero": "58",
+        "user_id": 155
+    },
+    {
+        "endereco-pais": "Afghanistan",
+        "endereco-cidade": "Surkh Bilandī",
+        "endereco_rua": "Maple",
+        "endereco_numero": "283",
+        "user_id": 81
+    },
+    {
+        "endereco-pais": "Afghanistan",
+        "endereco-cidade": "Bāmyān",
+        "endereco_rua": "Summer Ridge",
+        "endereco_numero": "623",
+        "user_id": 44
+    },
+    {
+        "endereco-pais": "Afghanistan",
+        "endereco-cidade": "Mīrābād",
+        "endereco_rua": "Sutherland",
+        "endereco_numero": "06",
+        "user_id": 8
+    },
+    {
+        "endereco-pais": "Afghanistan",
+        "endereco-cidade": "Farah",
+        "endereco_rua": "Maywood",
+        "endereco_numero": "8",
+        "user_id": 188
+    },
+    {
+        "endereco-pais": "Afghanistan",
+        "endereco-cidade": "Adraskan",
+        "endereco_rua": "Monica",
+        "endereco_numero": "094",
+        "user_id": 15
+    },
+    {
+        "endereco-pais": "Afghanistan",
+        "endereco-cidade": "Āsmār",
+        "endereco_rua": "Judy",
+        "endereco_numero": "143",
+        "user_id": 34
+    },
+    {
+        "endereco-pais": "Afghanistan",
+        "endereco-cidade": "Qarchī Gak",
+        "endereco_rua": "Melrose",
+        "endereco_numero": "8",
+        "user_id": 63
+    },
+    {
+        "endereco-pais": "Afghanistan",
+        "endereco-cidade": "Qal‘ah-ye Na‘īm",
+        "endereco_rua": "Blackbird",
+        "endereco_numero": "97",
+        "user_id": 83
+    },
+    {
+        "endereco-pais": "Afghanistan",
+        "endereco-cidade": "Jalālābād",
+        "endereco_rua": "Merrick",
+        "endereco_numero": "72",
+        "user_id": 59
+    },
+    {
+        "endereco-pais": "Afghanistan",
+        "endereco-cidade": "Markaz-e Woluswalī-ye Āchīn",
+        "endereco_rua": "Eastwood",
+        "endereco_numero": "3640",
+        "user_id": 166
+    },
+    {
+        "endereco-pais": "Afghanistan",
+        "endereco-cidade": "Dasht-e Qal‘ah",
+        "endereco_rua": "Browning",
+        "endereco_numero": "4",
+        "user_id": 129
+    },
+    {
+        "endereco-pais": "Afghanistan",
+        "endereco-cidade": "Taloqan",
+        "endereco_rua": "Sachtjen",
+        "endereco_numero": "93164",
+        "user_id": 39
+    },
+    {
+        "endereco-pais": "Afghanistan",
+        "endereco-cidade": "Qarāwul",
+        "endereco_rua": "Kipling",
+        "endereco_numero": "95910",
+        "user_id": 126
+    },
+    {
+        "endereco-pais": "Afghanistan",
+        "endereco-cidade": "Mazār-e Sharīf",
+        "endereco_rua": "Fieldstone",
+        "endereco_numero": "40346",
+        "user_id": 151
+    },
+    {
+        "endereco-pais": "Afghanistan",
+        "endereco-cidade": "Mazār-e Sharīf",
+        "endereco_rua": "Russell",
+        "endereco_numero": "48",
+        "user_id": 44
+    },
+    {
+        "endereco-pais": "Afghanistan",
+        "endereco-cidade": "Shibirghān",
+        "endereco_rua": "Clove",
+        "endereco_numero": "968",
+        "user_id": 99
+    },
+    {
+        "endereco-pais": "Afghanistan",
+        "endereco-cidade": "Sar Chakān",
+        "endereco_rua": "Village Green",
+        "endereco_numero": "0261",
+        "user_id": 169
+    },
+    {
+        "endereco-pais": "Afghanistan",
+        "endereco-cidade": "Dūāb",
+        "endereco_rua": "Bowman",
+        "endereco_numero": "9",
+        "user_id": 137
+    },
+    {
+        "endereco-pais": "Afghanistan",
+        "endereco-cidade": "Nahrīn",
+        "endereco_rua": "Onsgard",
+        "endereco_numero": "9",
+        "user_id": 73
+    },
+    {
+        "endereco-pais": "Afghanistan",
+        "endereco-cidade": "Sang-e Chārak",
+        "endereco_rua": "Mosinee",
+        "endereco_numero": "6030",
+        "user_id": 114
+    },
+    {
+        "endereco-pais": "Afghanistan",
+        "endereco-cidade": "Khōst",
+        "endereco_rua": "Southridge",
+        "endereco_numero": "878",
+        "user_id": 9
+    },
+    {
+        "endereco-pais": "Afghanistan",
+        "endereco-cidade": "Karukh",
+        "endereco_rua": "Transport",
+        "endereco_numero": "7",
+        "user_id": 110
+    },
+    {
+        "endereco-pais": "Afghanistan",
+        "endereco-cidade": "Quchanghī",
+        "endereco_rua": "Northview",
+        "endereco_numero": "63762",
+        "user_id": 177
+    },
+    {
+        "endereco-pais": "Afghanistan",
+        "endereco-cidade": "Lashkar Gāh",
+        "endereco_rua": "Northview",
+        "endereco_numero": "8",
+        "user_id": 192
+    },
+    {
+        "endereco-pais": "Afghanistan",
+        "endereco-cidade": "Deh-e Now",
+        "endereco_rua": "Del Sol",
+        "endereco_numero": "50",
+        "user_id": 135
+    },
+    {
+        "endereco-pais": "Afghanistan",
+        "endereco-cidade": "Gereshk",
+        "endereco_rua": "Merry",
+        "endereco_numero": "99372",
+        "user_id": 198
+    },
+    {
+        "endereco-pais": "Afghanistan",
+        "endereco-cidade": "Nahrīn",
+        "endereco_rua": "Lotheville",
+        "endereco_numero": "7",
+        "user_id": 28
+    },
+    {
+        "endereco-pais": "Afghanistan",
+        "endereco-cidade": "Chowṉêy",
+        "endereco_rua": "Grayhawk",
+        "endereco_numero": "2",
+        "user_id": 131
+    },
+    {
+        "endereco-pais": "Afghanistan",
+        "endereco-cidade": "Dowlatyār",
+        "endereco_rua": "Westport",
+        "endereco_numero": "37",
+        "user_id": 135
+    },
+    {
+        "endereco-pais": "Afghanistan",
+        "endereco-cidade": "Qarqīn",
+        "endereco_rua": "Fremont",
+        "endereco_numero": "8",
+        "user_id": 50
+    },
+    {
+        "endereco-pais": "Afghanistan",
+        "endereco-cidade": "Khayr Kōṯ",
+        "endereco_rua": "Reinke",
+        "endereco_numero": "62024",
+        "user_id": 37
+    },
+    {
+        "endereco-pais": "Afghanistan",
+        "endereco-cidade": "Ḩājī Khēl",
+        "endereco_rua": "Oakridge",
+        "endereco_numero": "16872",
+        "user_id": 78
+    },
+    {
+        "endereco-pais": "Afghanistan",
+        "endereco-cidade": "Karukh",
+        "endereco_rua": "Forest Dale",
+        "endereco_numero": "0719",
+        "user_id": 123
+    },
+    {
+        "endereco-pais": "Afghanistan",
+        "endereco-cidade": "Jawand",
+        "endereco_rua": "Briar Crest",
+        "endereco_numero": "26",
+        "user_id": 50
+    },
+    {
+        "endereco-pais": "Afghanistan",
+        "endereco-cidade": "Manogay",
+        "endereco_rua": "Washington",
+        "endereco_numero": "2",
+        "user_id": 185
+    },
+    {
+        "endereco-pais": "Afghanistan",
+        "endereco-cidade": "Maymana",
+        "endereco_rua": "Texas",
+        "endereco_numero": "820",
+        "user_id": 196
+    },
+    {
+        "endereco-pais": "Afghanistan",
+        "endereco-cidade": "Maymana",
+        "endereco_rua": "Miller",
+        "endereco_numero": "7",
+        "user_id": 98
+    },
+    {
+        "endereco-pais": "Afghanistan",
+        "endereco-cidade": "Shahrak",
+        "endereco_rua": "Pleasure",
+        "endereco_numero": "01",
+        "user_id": 197
+    },
+    {
+        "endereco-pais": "Afghanistan",
+        "endereco-cidade": "Muḩammad Āghah Wuluswālī",
+        "endereco_rua": "Golden Leaf",
+        "endereco_numero": "87",
+        "user_id": 184
+    },
+    {
+        "endereco-pais": "Afghanistan",
+        "endereco-cidade": "Mehtar Lām",
+        "endereco_rua": "Walton",
+        "endereco_numero": "21605",
+        "user_id": 83
+    },
+    {
+        "endereco-pais": "Afghanistan",
+        "endereco-cidade": "Qal‘ah-ye Fārsī",
+        "endereco_rua": "Monterey",
+        "endereco_numero": "73",
+        "user_id": 167
+    },
+    {
+        "endereco-pais": "Afghanistan",
+        "endereco-cidade": "Manogay",
+        "endereco_rua": "Menomonie",
+        "endereco_numero": "0192",
+        "user_id": 159
+    },
+    {
+        "endereco-pais": "Afghanistan",
+        "endereco-cidade": "Mehtar Lām",
+        "endereco_rua": "Carberry",
+        "endereco_numero": "702",
+        "user_id": 194
+    },
+    {
+        "endereco-pais": "Afghanistan",
+        "endereco-cidade": "Khān Neshīn",
+        "endereco_rua": "Surrey",
+        "endereco_numero": "88",
+        "user_id": 36
+    },
+    {
+        "endereco-pais": "Afghanistan",
+        "endereco-cidade": "Mehtar Lām",
+        "endereco_rua": "Maple Wood",
+        "endereco_numero": "29",
+        "user_id": 170
+    },
+    {
+        "endereco-pais": "Afghanistan",
+        "endereco-cidade": "Kafir Qala",
+        "endereco_rua": "Stoughton",
+        "endereco_numero": "90",
+        "user_id": 134
+    },
+    {
+        "endereco-pais": "Afghanistan",
+        "endereco-cidade": "Khānaqāh",
+        "endereco_rua": "Rusk",
+        "endereco_numero": "520",
+        "user_id": 180
+    },
+    {
+        "endereco-pais": "Afghanistan",
+        "endereco-cidade": "Nīkêh",
+        "endereco_rua": "Burning Wood",
+        "endereco_numero": "2",
+        "user_id": 173
+    },
+    {
+        "endereco-pais": "Afghanistan",
+        "endereco-cidade": "Rabāţ-e Sangī-ye Pā’īn",
+        "endereco_rua": "Tennessee",
+        "endereco_numero": "0",
+        "user_id": 164
+    },
+    {
+        "endereco-pais": "Afghanistan",
+        "endereco-cidade": "Charikar",
+        "endereco_rua": "Kim",
+        "endereco_numero": "081",
+        "user_id": 55
+    },
+    {
+        "endereco-pais": "Afghanistan",
+        "endereco-cidade": "Khān Neshīn",
+        "endereco_rua": "Namekagon",
+        "endereco_numero": "294",
+        "user_id": 98
+    },
+    {
+        "endereco-pais": "Afghanistan",
+        "endereco-cidade": "Gardēz",
+        "endereco_rua": "Sachtjen",
+        "endereco_numero": "312",
+        "user_id": 77
+    },
+    {
+        "endereco-pais": "Afghanistan",
+        "endereco-cidade": "Bal Chirāgh",
+        "endereco_rua": "Summit",
+        "endereco_numero": "17218",
+        "user_id": 87
+    },
+    {
+        "endereco-pais": "Afghanistan",
+        "endereco-cidade": "Karukh",
+        "endereco_rua": "Di Loreto",
+        "endereco_numero": "957",
+        "user_id": 115
+    },
+    {
+        "endereco-pais": "Afghanistan",
+        "endereco-cidade": "Dasht-e Archī",
+        "endereco_rua": "Lakewood Gardens",
+        "endereco_numero": "78665",
+        "user_id": 189
+    },
+    {
+        "endereco-pais": "Afghanistan",
+        "endereco-cidade": "Mīrābād",
+        "endereco_rua": "Bluejay",
+        "endereco_numero": "39037",
+        "user_id": 163
+    },
+    {
+        "endereco-pais": "Afghanistan",
+        "endereco-cidade": "Cool űrhajó",
+        "endereco_rua": "Sloan",
+        "endereco_numero": "75",
+        "user_id": 142
+    },
+    {
+        "endereco-pais": "Afghanistan",
+        "endereco-cidade": "Rū-ye Sang",
+        "endereco_rua": "Old Shore",
+        "endereco_numero": "08306",
+        "user_id": 197
+    },
+    {
+        "endereco-pais": "Afghanistan",
+        "endereco-cidade": "Markaz-e Ḩukūmat-e Darwēshān",
+        "endereco_rua": "Marquette",
+        "endereco_numero": "77",
+        "user_id": 70
+    },
+    {
+        "endereco-pais": "Afghanistan",
+        "endereco-cidade": "Mardīān",
+        "endereco_rua": "Del Mar",
+        "endereco_numero": "26",
+        "user_id": 121
+    },
+    {
+        "endereco-pais": "Afghanistan",
+        "endereco-cidade": "Cool űrhajó",
+        "endereco_rua": "Heffernan",
+        "endereco_numero": "0646",
+        "user_id": 62
+    },
+    {
+        "endereco-pais": "Afghanistan",
+        "endereco-cidade": "Bagrāmī",
+        "endereco_rua": "Westerfield",
+        "endereco_numero": "0805",
+        "user_id": 102
+    },
+    {
+        "endereco-pais": "Afghanistan",
+        "endereco-cidade": "Shahrak",
+        "endereco_rua": "Truax",
+        "endereco_numero": "53",
+        "user_id": 13
+    },
+    {
+        "endereco-pais": "Afghanistan",
+        "endereco-cidade": "Shahrak",
+        "endereco_rua": "Rigney",
+        "endereco_numero": "23487",
+        "user_id": 43
+    },
+    {
+        "endereco-pais": "Afghanistan",
+        "endereco-cidade": "Taloqan",
+        "endereco_rua": "Lunder",
+        "endereco_numero": "709",
+        "user_id": 65
+    }
+]
