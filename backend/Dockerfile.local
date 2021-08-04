@@ -11,4 +11,4 @@ WORKDIR /app
 
 EXPOSE 8080
 
-CMD dockerize -wait tcp://db:5432 -timeout 60s yarn install && npx knex migrate:latest && yarn start
+CMD dockerize -wait tcp://db:5432 -timeout 60s yarn install && npx knex migrate:latest  && yarn start
