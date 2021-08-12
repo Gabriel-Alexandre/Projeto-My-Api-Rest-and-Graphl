@@ -1,31 +1,14 @@
 var express = require('express');
 var router = express.Router();
-var data = require("../corporacao.json")
 
+var departamentosRouter = require('./departamentos');
+var corporacaoRouter = require('./corporacao');
 
-router.get("/", function(req, res) {
-    res.status(200).json(data)
-    .catch((err) => {
-        res.status(err.status || 500);
-        res.json({
-          message: err.message,
-          error: err
-        });
-    });
-    // console.log(data)
-});
+router.use('/departamentos', departamentosRouter);
+router.use('/corporacao', corporacaoRouter);
 
-//Buscar por id
-router.get("/:id", function(req, res) {
-    //TODO:
-   
-});
-
-
-//Buscar por id do Author
-router.get("/autor/:idAutor", function(req, res) {
-    //TODO:
-   
+router.get("/", (req, res) => {
+    return res.json({ message: "Bem Vindo ao Servidor do Sisenex." });
 });
 
 
