@@ -3,13 +3,17 @@ var express = require('express');
 var path = require('path');
 var cookieParser = require('cookie-parser');
 var logger = require('morgan');
-
+const Knex = require("knex");
+const { Model } = require("objection");
+const knexConfig = require("./knexfile");
 var cors = require('cors')
 
 var routes = require('./routes/sistem');
 
-
 var app = express();
+
+const knex = Knex(knexConfig);
+Model.knex(knex);
 
 
 app.use(logger('dev'));
