@@ -6,27 +6,27 @@ exports.getDepartamentos = () => {
 };
 
 /* GET: Buscar Departamento */
-exports.getDepartamento = (id_departamento) => {
+exports.getDepartamento = ({id_departamento}) => {
     return Departamentos.query()
-        .where({ id_departamento })
+        .findById( id_departamento )
 };
 
 /* GET: Buscar Departamentos por nome */
 exports.getDepartamentoByNome = (nome_departamento) => {
     return Departamentos.query()
-        .where({ nome_departamento }) 
+        .where( nome_departamento ) 
 };
 
 /* GET: Buscar Departamentos por sigla */
 exports.getDepartamentoBySigla = (sigla_departamento) => {
     return Departamentos.query()
-        .where({ sigla_departamento })
+        .where( sigla_departamento )
 };
 
 /* GET: Buscar Departamentos por corporacao */
-exports.getDepartamentoByCorporacao = (id_corporacao) => {
+exports.getDepartamentoByCorporacao = ({id_corporacao}) => {
     return Departamentos.query()
-        .where({ id_corporacao })
+        .findByIds( id_corporacao )
 };
 
 /* POST: Inserir */

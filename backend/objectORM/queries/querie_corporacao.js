@@ -6,21 +6,21 @@ exports.getCorporacoes = () => {
 };
 
 /* GET: Buscar Corporacao */
-exports.getCorporacao = (id_corporacao) => {
+exports.getCorporacao = ({id_corporacao}) => {
     return Corporacao.query()
-        .where({ id_corporacao })
+        .findById( id_corporacao )
 };
 
 /* GET: Buscar Corporacao por nome */
 exports.getCorporacaoByNome = (nome_corporacao) => {
     return Corporacao.query()
-        .where({ nome_corporacao }) 
+        .where( nome_corporacao ) 
 };
 
 /* GET: Buscar Corporacao por sede */
 exports.getCorporacaoBySede = (sede_corporacao) => {
     return Corporacao.query()
-        .where({ sede_corporacao })
+        .where( sede_corporacao ) 
 };
 
 /* POST: Inserir */

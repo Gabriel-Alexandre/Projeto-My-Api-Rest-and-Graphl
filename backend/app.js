@@ -8,6 +8,9 @@ const { Model } = require("objection");
 const knexConfig = require("./knexfile");
 var cors = require('cors')
 
+const { typeDefs, resolvers } = require("./graphql");
+const { ApolloServer} = require("apollo-server");
+
 var routes = require('./routes/sistem');
 
 var app = express();
@@ -37,6 +40,22 @@ app.use(function(err, req, res, next) {
   // render the error page
   res.status(err.status || 500);
   res.render('error');
+});
+
+const apollo =  new ApolloServer({
+  typeDefs,
+  resolvers,
+  introspection: true,
+  playground: {
+    settings: {
+      'editor.theme': 'dark',
+    },
+  }
+});
+
+
+apollo.listen().then(({ url }) => {
+  console.log(`Server ready at ${url}`);
 });
 
 module.exports = app;
